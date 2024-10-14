@@ -1,0 +1,16 @@
+.maioridade {
+    background-color: green; 
+    color: yellow; 
+    padding: 20px; 
+    border-radius: 5px; /* Bordas arredondadas (opcional) */
+    text-align: center;
+}
+
+  
+  .menoridade {
+    background-color: red; 
+    color: yellow;
+    padding: 20px; 
+    border-radius: 5px; 
+    text-align: center;
+  }

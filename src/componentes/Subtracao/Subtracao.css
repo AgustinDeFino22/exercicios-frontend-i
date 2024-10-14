@@ -1,0 +1,7 @@
+.subtracao-container {
+    background-color: gray; 
+    color: white;          
+    text-align: center;       
+    border-radius: 5px;    /* Bordas arredondadas (opcional) */
+    font-size: 18px;      
+  }

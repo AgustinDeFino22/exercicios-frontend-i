@@ -1,0 +1,7 @@
+.dataCompletaAtual {
+    display: flex;
+    background-color: brown;
+    color: white;
+    justify-content: center;
+    margin: 16px;
+}

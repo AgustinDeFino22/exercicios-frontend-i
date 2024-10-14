@@ -1,0 +1,15 @@
+.diaAtual {
+    color: white;
+    /*texto branco */
+    display: flex;
+    /*flexbox para centralizar o texto*/
+    justify-content: center;
+    /*centralizada horizontalmente*/
+    background-color: blue;
+    border-radius: 50%;
+    /* Faz a div ser redonda */
+    display: flex;
+    /* Flexbox para centralizar o texto */
+
+    margin: 16px;
+}

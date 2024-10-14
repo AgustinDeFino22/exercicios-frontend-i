@@ -1,0 +1,9 @@
+.lista-produtos{
+background-color: purple;
+color: yellow;
+ list-style-type: none; /*remove os marcadores padrão */
+}
+
+.produtos{
+    padding: 5px 0;
+}
